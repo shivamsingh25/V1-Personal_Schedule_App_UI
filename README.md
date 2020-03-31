@@ -6,7 +6,7 @@ Design Credit: [Paweł Szymankiewicz](https://dribbble.com/shots/6118803--Person
 
 Speed Code YouTube Video: https://youtu.be/LIx8xSRlaXA
 
-![Preview Image](/home/shivam/Desktop/Data/YT/v1_personal_schedule_view/preview.png)
+![Preview Image](preview.png)
 
 ## Getting Started
 
